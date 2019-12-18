@@ -45,7 +45,9 @@ A simple shoot game written in Python.
 
 We made 90 commits.
 
-[network graph] (https://github.com/15479/PythonShootGame/network)
+<p align="center">
+  <img src= "./resources/readme/network.png" width="90%" />
+</p>
 
 # Requirement
 
